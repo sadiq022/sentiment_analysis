@@ -39,6 +39,7 @@ Install from PyPI (all printer dependencies included):
 
 ```bash
 pip install etikettierer
+```
 
 # ⚙️ Printer Setup
 
